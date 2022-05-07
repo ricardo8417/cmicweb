@@ -1,0 +1,17 @@
+.patrocinadores {
+    margin-top: 5%;
+    position: absolute;
+    height: auto;
+    width: 70%;
+    right: 15%;
+    left: 15%;
+}
+
+.beneficios {
+    position: relative;
+    margin-top: 15%;
+    height: auto;
+    width: 70%;
+    right: 15%;
+    left: 15%;
+}
